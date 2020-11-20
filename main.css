@@ -1,0 +1,43 @@
+body{
+    background: bisque;
+}
+footer a {
+    display:inline;
+    font-size: 50px;
+    font-weight:bold;
+    margin-right:1.5em;
+    text-align: centre;
+
+  }
+  p 
+  {
+    font-size: 30px;
+    font-style: italic;
+  }
+  .container {
+    height: 200px;
+    position: relative;
+    border: 10px solid green;
+  }
+  
+  .textblog {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 50px;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    
+  }
+  a{
+    font-size: 30px;
+  }
+  #home{
+    font-size: 100px;
+    text-align: center;
+    
+  }
+  ul{
+    font-style: oblique;
+    font-size: 30px;
+  }
