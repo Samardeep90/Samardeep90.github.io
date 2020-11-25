@@ -1,14 +1,25 @@
 body{
     background: bisque;
 }
-footer a {
+ a {
     display:inline;
-    font-size: 50px;
+    font-size: 25px;
     font-weight:bold;
     margin-right:1.5em;
     text-align: centre;
+    color: blueviolet;
 
-  }
+
+ }
+ 
+ .centre
+ {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+   
+ }
   p 
   {
     font-size: 30px;
@@ -20,24 +31,25 @@ footer a {
     border: 10px solid green;
   }
   
-  .textblog {
-    margin-left: 80px;
-    margin-right: 80px;
-    font-size: 50px;
-    position: relative;
-    top: 50%;
-    text-align: center;
-    
-  }
-  a{
+  .link{
     font-size: 30px;
+    color: black;
+  }
+  
+  a{
+    font-size: 20px;
   }
   #home{
-    font-size: 100px;
+    font-size: 50px;
     text-align: center;
     
   }
-  ul{
+  ol{
     font-style: oblique;
     font-size: 30px;
+  }
+  ul{
+    font-style: italic;
+    font-size: 20px;
+    
   }
